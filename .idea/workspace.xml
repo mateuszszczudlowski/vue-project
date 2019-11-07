@@ -2,79 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17f9627e-ef62-4b2c-a0f0-b98a90fb41f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/frontendwar.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/a-post-with-a-cover.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/images/alexandr-podvalny-220262-unsplash.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/images/news.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/images/news2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/markdown-test-file.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/markdown-test-file2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/say-hello-to-gridsome.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/test.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/test2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/test3.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gridsome.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gridsome.server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/css/uikit.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/email-pattern.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/author.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/js/particles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/js/uikit-icons.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/js/uikit.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/_global.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/_reset.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/frondendwars.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/svg/cookie-bg.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/svg/cookie-bg2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/svg/cookie-mosnter.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/svg/css-logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/svg/hexagon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/svg/html-logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/svg/logo/few-logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/svg/logo/few-logo2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/svg/logo/few-logo3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/svg/logo/few.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/svg/logo/fw-logo-atomic-full-pink.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/svg/logo/fw-logo-atomic-full-slice.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/svg/logo/fw-logo-atomic-full-small.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/svg/logo/fw-logo-atomic-full.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/svg/logo/fw-logo-atomic.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/svg/logo/nem-logo-small-white.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/svg/logo/nem-logo-small.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/svg/logo/nem-logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/svg/news.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/svg/news2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ArticleList.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ArticleListCss.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ArticleListHtml.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CookieMessage.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Particles.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PostCard.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PostMeta.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PostTags.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/layouts/Default.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/layouts/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/Category.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/Post.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/templates/Tag.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/dist/" />
     <ignored path="$PROJECT_DIR$/node_modules/" />
@@ -91,7 +19,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -99,6 +27,15 @@
                 <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -112,6 +49,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -133,6 +71,17 @@
             <path>
               <item name="frontendwar" type="b2602c69:ProjectViewProjectNode" />
               <item name="frontendwar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frontendwar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frontendwar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frontendwar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frontendwar" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -168,12 +117,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573158022999</updated>
-      <workItem from="1573158025590" duration="178000" />
+      <workItem from="1573158025590" duration="276000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="178000" />
+    <option name="totallyTimeSpent" value="276000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -211,6 +160,13 @@
             <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
         </state>
       </provider>
     </entry>
